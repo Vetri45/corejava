@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.chainsys.variables.calculator.Calculator"/>
+    <fullyQualifiedTypeName name="com.chainsys.variables.calculator"/>
+    <fullyQualifiedTypeName name="com.chainsys.variables.Bank"/>
+    <fullyQualifiedTypeName name="com.chainsys.unittest.Banktest"/>
+    <fullyQualifiedTypeName name="datelessons.WorkingWithDate"/>
+    <fullyQualifiedTypeName name="com.chainsys.strings.StringBuilter"/>
+    <fullyQualifiedTypeName name="com.chainsys.strings.StringLessonA"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.chainsys.collections.Emp"/>
+    <fullyQualifiedTypeName name="java.lang.OutOfMemoryError"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+</qualifiedTypeNameHistroy>
