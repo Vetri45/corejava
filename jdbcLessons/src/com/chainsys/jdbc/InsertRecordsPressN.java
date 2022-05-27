@@ -34,6 +34,6 @@ break;
 }
 }while(true); 
 
- con.close();
+ con.close():
     }
 }
