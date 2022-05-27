@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Copy element &apos;Emp.java&apos; to &apos;jdbcLessons/src/com.chainsys.Threads&apos;&#x0D;&#x0A;- Original project: &apos;javalessons&apos;&#x0D;&#x0A;- Destination element: &apos;jdbcLessons/src/com.chainsys.Threads&apos;&#x0D;&#x0A;- Original element: &apos;com.chainsys.collections.Emp.java&apos;" description="Copy compilation unit" destination="=jdbcLessons/src&lt;com.chainsys.Threads" element1="/src&lt;com.chainsys.collections{Emp.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1652244249756" units="1" version="1.0"/>
-</session>
