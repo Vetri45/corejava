@@ -32,8 +32,8 @@ public class UserServlets extends HttpServlet {
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		HttpSession session = request.getSession(true);
 		User userData = new  User();
-		userData.setUserId("shanthini");
-		userData.setPassword("asdf1234");
+		userData.setUserId("Deepa");
+		userData.setPassword("Deeps123");
 		session.setAttribute("user", userData);
 		response.setContentType("text/html");
 		PrintWriter out =response.getWriter();

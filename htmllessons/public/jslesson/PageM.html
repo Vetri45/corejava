@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Objects</title>
+</head>
+<body>
+<script type="text/javascript">
+ const cody = new Object();
+ console.log( cody.living);
+ cody.living = true;
+ cody.age = 33;
+ cody.gender = 'male';
+ 
+ console.log( cody.living);
+ console.log( cody.age);
+ console.log( cody.gender);
+ 
+ cody.getGender = function () { return cody.gender; };
+ console.log(cody.getGender()); // logs 'male'
+ </script>
+</body>
+</html>
